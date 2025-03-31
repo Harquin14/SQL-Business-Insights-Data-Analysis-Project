@@ -5,6 +5,7 @@ Welcome to my SQL Business Insights &amp; Data Analysis project! This repository
 
 This project includes two detailed business reports that help drive strategic decision-making:
 
+
 1️⃣ Product Performance Report 
 
 📌 Objective: Analyze product metrics and categorize products based on performance.
@@ -19,11 +20,11 @@ This project includes two detailed business reports that help drive strategic de
 
 ✔️ Compute essential KPIs:
 
-Recency (months since last sale).
+-Recency (months since last sale).
 
-Average Order Revenue.
+-Average Order Revenue.
 
-Average Monthly Revenue.
+-Average Monthly Revenue.
 
 2️⃣ Customer Segmentation Report 
 
@@ -43,11 +44,13 @@ Customer Lifespan (months since first order).
 
 ✔️ Compute KPIs:
 
-Recency (months since last order).
+-Recency (months since last order).
 
-Average Order Value (Total Sales / Total Orders).
+-Average Order Value (Total Sales / Total Orders).
 
-Average Monthly Spend.
+-Average Monthly Spend.
+
+
 
 💡 Technologies Used
 
@@ -55,6 +58,6 @@ SQL Server (for querying & data transformations)
 
 Tableau (for data visualization & insights)
 
-CSV Files (data sources)
+
 
 
