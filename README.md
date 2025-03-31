@@ -8,10 +8,15 @@ This project includes two detailed business reports that help drive strategic de
 1️⃣ Product Performance Report 
 
 📌 Objective: Analyze product metrics and categorize products based on performance.
+
 📌 Key Insights:
+
 ✔️ Identify High-Performing, Mid-Range, and Low-Performing products.
+
 ✔️ Calculate total sales, total orders, and unique customers per product.
+
 ✔️ Determine the lifespan of each product (months since first sale).
+
 ✔️ Compute essential KPIs:
 
 Recency (months since last sale).
@@ -23,14 +28,19 @@ Average Monthly Revenue.
 2️⃣ Customer Segmentation Report 
 
 📌 Objective: Understand customer purchasing behaviors and categorize them into meaningful segments.
+
 📌 Key Insights:
+
 ✔️ Segment customers into VIP, Regular, and New categories.
+
 ✔️ Group customers by age brackets for targeted marketing.
+
 ✔️ Aggregate key customer-level metrics:
 
 Total Orders, Total Sales, Total Products Purchased.
 
 Customer Lifespan (months since first order).
+
 ✔️ Compute KPIs:
 
 Recency (months since last order).
